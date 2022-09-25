@@ -1,0 +1,22 @@
+{
+  "name": "red",
+  "version": "1.0.0",
+  "description": "for hackathon and future possible changes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mangalamraj/red.git"
+  },
+  "author": "team red",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mangalamraj/red/issues"
+  },
+  "homepage": "https://github.com/mangalamraj/red#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
